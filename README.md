@@ -52,69 +52,6 @@
 </div>
 <!-- feed end -->
 
-### 📊 WakaTime
-
-**I'm a Night 🦉**
-
-```text
-🌞 Morning                118 sessions        ████░░░░░░░░░░░░░░░░░░░░░   18.15 %
-🌆 Daytime                176 sessions        ███████░░░░░░░░░░░░░░░░░░   27.08 %
-🌃 Evening                164 sessions        ██████░░░░░░░░░░░░░░░░░░░   25.23 %
-🌙 Night                  192 sessions        ████████░░░░░░░░░░░░░░░░░   29.54 %
-```
-
-📅 **I'm Most Productive On Friday**
-
-```text
-Monday                   82 sessions         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-Tuesday                  88 sessions         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 %
-Wednesday                91 sessions         ███░░░░░░░░░░░░░░░░░░░░░░   14.00 %
-Thursday                 95 sessions         ████░░░░░░░░░░░░░░░░░░░░░   14.62 %
-Friday                   116 sessions        █████░░░░░░░░░░░░░░░░░░░░   17.85 %
-Saturday                 84 sessions         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 %
-Sunday                   94 sessions         ████░░░░░░░░░░░░░░░░░░░░░   14.46 %
-```
-
-📊 **This Week I Spent My Time On**
-
-```text
-🕑 Time Zone: Asia/Shanghai
-
-💬 Programming Languages:
-TypeScript               5 hrs 42 mins       ████████████░░░░░░░░░░░░░   47.9 %
-JavaScript               2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.2 %
-Markdown                 1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.9 %
-Python                   1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.1 %
-Other                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░    5.9 %
-
-🔥 Editors:
-VS Code                  9 hrs 58 mins       █████████████████████░░░░   83.6 %
-Cursor                   1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.4 %
-
-💻 Operating System:
-macOS                    11 hrs 55 mins      █████████████████████████   100.0 %
-```
-
-<div align="center">
-
-<img align="left" width="150" src="./assets/images/left.png" alt="Left decoration" />
-<img src="https://streak-stats.demolab.com?user=Flashhhhhhzj&theme=default&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub streak" />
-<img align="right" width="150" src="./assets/images/right.png" alt="Right decoration" />
-
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Flashhhhhhzj&theme=xcode&bg_color=FFFFFF&color=2563eb&line=14b8a6&point=f59e0b&area=true&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Flashhhhhhzj&theme=xcode&bg_color=FFFFFF&color=2563eb&line=14b8a6&point=f59e0b&area=true&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flashhhhhhzj&theme=xcode&bg_color=FFFFFF&color=2563eb&line=14b8a6&point=f59e0b&area=true&hide_border=true" alt="Activity graph" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
-</div>
-
 <div align="center">
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
