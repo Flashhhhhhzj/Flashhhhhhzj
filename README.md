@@ -97,11 +97,6 @@
 
 </div>
 
-<div align="center">
-
-
-<img src="./assets/images/repobeats-placeholder.svg" alt="Contribution rhythm" width="100%" />
 
 <img src="./assets/images/icon.png" alt="Footer banner" />
 
-</div>
