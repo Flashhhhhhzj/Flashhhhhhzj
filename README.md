@@ -27,25 +27,18 @@
 
 <h1 align="center">🙋 Hello</h1>
 
-<table width="100%">
-<tr><td align="center">
-
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://raw.githubusercontent.com/Flashhhhhhzj/Flashhhhhhzj/main/assets/images/jobs.png" alt="About me illustration" />
+<img align="right" width="88" src="./assets/images/jobs.png" alt="About me illustration" />
 
 <p align="center">嗨，你好，我是 Heidanr，目前在 USM 学习 Computer Science。</p>
 <p align="center">我喜欢把课程项目做得不只是“交作业”，而是继续打磨成像样、可展示、可复用的真实作品。</p>
 <p align="center">最近主要在折腾前端体验、文档自动化、Markdown 转换、知识库整理，以及 AI 辅助工作流。</p>
 <p align="center"><strong>I enjoy turning messy ideas and repetitive tasks into clean, useful workflows.</strong></p>
 
-</td></tr>
-
-<tr><td align="center">
-
 ### 📃 Recent Feed
 
-<img align="right" width="88" src="https://raw.githubusercontent.com/Flashhhhhhzj/Flashhhhhhzj/main/assets/images/astronaut.png" alt="Feed illustration" />
+<img align="right" width="88" src="./assets/images/astronaut.png" alt="Feed illustration" />
 
 <!-- feed start -->
 <div align="left">
@@ -59,29 +52,45 @@
 </div>
 <!-- feed end -->
 
-</td></tr>
-
-<tr><td align="center">
-
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
-<div align="center">
+**I'm a Night 🦉**
 
 ```text
-Time tracking will appear here after WAKATIME_API_KEY is configured.
-
-🕑 Time Zone: Asia/Shanghai
-💬 Languages: waiting for first sync
-🔥 Editors: waiting for first sync
-💻 Operating System: waiting for first sync
+🌞 Morning                waiting for first sync
+🌆 Daytime                waiting for first sync
+🌃 Evening                waiting for first sync
+🌙 Night                  waiting for first sync
 ```
 
-</div>
-<!--END_SECTION:waka-->
+📅 **I'm Most Productive On**
 
-</td></tr>
-</table>
+```text
+Monday                   waiting for first sync
+Tuesday                  waiting for first sync
+Wednesday                waiting for first sync
+Thursday                 waiting for first sync
+Friday                   waiting for first sync
+Saturday                 waiting for first sync
+Sunday                   waiting for first sync
+```
+
+📊 **This Week I Spent My Time On**
+
+```text
+🕑 Time Zone: Asia/Shanghai
+
+💬 Programming Languages:
+No Activity Tracked This Week
+
+🔥 Editors:
+No Activity Tracked This Week
+
+💻 Operating System:
+No Activity Tracked This Week
+```
+<!--END_SECTION:waka-->
 
 <img width="200%" src="./assets/images/hr.gif" alt="Divider" />
 
