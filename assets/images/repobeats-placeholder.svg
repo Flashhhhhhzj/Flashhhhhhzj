@@ -153,39 +153,37 @@
 
   <rect x="14" y="362" width="1072" height="54" rx="8" fill="#ffffff" stroke="#e5e7eb" />
   <path d="M37 384c0-4.6 3.3-8 7.7-8 2.9 0 5 1.4 6.5 3.7 1.5-2.3 3.7-3.7 6.5-3.7 4.4 0 7.7 3.4 7.7 8 0 8.5-9.8 13.1-14.2 17.4-4.5-4.3-14.2-8.9-14.2-17.4z" fill="none" stroke="#10b981" stroke-width="2.3" />
-  <text x="62" y="392" class="heading" fill="#2f855a">Top Contributors</text>
+  <text x="78" y="392" class="heading" fill="#2f855a">Top Contributors</text>
 
-  <text x="255" y="384" class="small" fill="#2f855a">Flashhhhhhzj</text>
+  <text x="265" y="384" class="small" fill="#3f7c52">github-action</text>
   <g>
-    <rect x="255" y="394" width="10" height="10" rx="1.4" fill="#d1fae5" />
-    <rect x="267" y="394" width="10" height="10" rx="1.4" fill="#bbf7d0" />
-    <rect x="279" y="394" width="10" height="10" rx="1.4" fill="#86efac" />
-    <rect x="291" y="394" width="10" height="10" rx="1.4" fill="#4ade80" />
-    <rect x="303" y="394" width="10" height="10" rx="1.4" fill="#22c55e" />
-    <rect x="315" y="394" width="10" height="10" rx="1.4" fill="#16a34a" />
-    <rect x="327" y="394" width="10" height="10" rx="1.4" fill="#15803d" />
-    <rect x="339" y="394" width="10" height="10" rx="1.4" fill="#166534" />
-    <rect x="351" y="394" width="10" height="10" rx="1.4" fill="#22c55e" />
-    <rect x="363" y="394" width="10" height="10" rx="1.4" fill="#86efac" />
-    <rect x="375" y="394" width="10" height="10" rx="1.4" fill="#4ade80" />
-    <rect x="387" y="394" width="10" height="10" rx="1.4" fill="#15803d" />
+    <rect x="265" y="394" width="10" height="10" rx="1.4" fill="#d1fae5" />
+    <rect x="277" y="394" width="10" height="10" rx="1.4" fill="#bbf7d0" />
+    <rect x="289" y="394" width="10" height="10" rx="1.4" fill="#86efac" />
+    <rect x="301" y="394" width="10" height="10" rx="1.4" fill="#4ade80" />
+    <rect x="313" y="394" width="10" height="10" rx="1.4" fill="#22c55e" />
+    <rect x="325" y="394" width="10" height="10" rx="1.4" fill="#16a34a" />
+    <rect x="337" y="394" width="10" height="10" rx="1.4" fill="#15803d" />
+    <rect x="349" y="394" width="10" height="10" rx="1.4" fill="#166534" />
+    <rect x="361" y="394" width="10" height="10" rx="1.4" fill="#22c55e" />
+    <rect x="373" y="394" width="10" height="10" rx="1.4" fill="#86efac" />
+    <rect x="385" y="394" width="10" height="10" rx="1.4" fill="#4ade80" />
+    <rect x="397" y="394" width="10" height="10" rx="1.4" fill="#15803d" />
   </g>
 
-  <text x="430" y="384" class="small" fill="#3f7c52">github-actions</text>
+  <text x="472" y="384" class="small" fill="#3f7c52">sun0225SUN</text>
   <g>
-    <rect x="430" y="394" width="10" height="10" rx="1.4" fill="#ecfdf5" />
-    <rect x="442" y="394" width="10" height="10" rx="1.4" fill="#d1fae5" />
-    <rect x="454" y="394" width="10" height="10" rx="1.4" fill="#bbf7d0" />
-    <rect x="466" y="394" width="10" height="10" rx="1.4" fill="#ecfdf5" />
-    <rect x="478" y="394" width="10" height="10" rx="1.4" fill="#d1fae5" />
-    <rect x="490" y="394" width="10" height="10" rx="1.4" fill="#bbf7d0" />
-    <rect x="502" y="394" width="10" height="10" rx="1.4" fill="#86efac" />
-    <rect x="514" y="394" width="10" height="10" rx="1.4" fill="#ecfdf5" />
-    <rect x="526" y="394" width="10" height="10" rx="1.4" fill="#d1fae5" />
-    <rect x="538" y="394" width="10" height="10" rx="1.4" fill="#bbf7d0" />
-    <rect x="550" y="394" width="10" height="10" rx="1.4" fill="#ecfdf5" />
-    <rect x="562" y="394" width="10" height="10" rx="1.4" fill="#d1fae5" />
+    <rect x="472" y="394" width="10" height="10" rx="1.4" fill="#ecfdf5" />
+    <rect x="484" y="394" width="10" height="10" rx="1.4" fill="#d1fae5" />
+    <rect x="496" y="394" width="10" height="10" rx="1.4" fill="#bbf7d0" />
+    <rect x="508" y="394" width="10" height="10" rx="1.4" fill="#ecfdf5" />
+    <rect x="520" y="394" width="10" height="10" rx="1.4" fill="#d1fae5" />
+    <rect x="532" y="394" width="10" height="10" rx="1.4" fill="#bbf7d0" />
+    <rect x="544" y="394" width="10" height="10" rx="1.4" fill="#86efac" />
+    <rect x="556" y="394" width="10" height="10" rx="1.4" fill="#ecfdf5" />
+    <rect x="568" y="394" width="10" height="10" rx="1.4" fill="#d1fae5" />
+    <rect x="580" y="394" width="10" height="10" rx="1.4" fill="#bbf7d0" />
+    <rect x="592" y="394" width="10" height="10" rx="1.4" fill="#ecfdf5" />
+    <rect x="604" y="394" width="10" height="10" rx="1.4" fill="#d1fae5" />
   </g>
-
-  <text x="960" y="392" class="tiny" fill="#94a3b8">README-friendly analytics style card</text>
 </svg>
