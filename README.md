@@ -154,4 +154,8 @@ macOS                    11 hrs 55 mins      ███████████�
   <img src="https://raw.githubusercontent.com/Flashhhhhhzj/Flashhhhhhzj/main/profile-3d-contrib/profile-gitblock.svg" alt="3D contribution profile" />
 </picture>
 
+<br><br>
+
+<img width="100%" src="./assets/images/repobeats-placeholder.svg" alt="Contribution insights card" />
+
 </div>
