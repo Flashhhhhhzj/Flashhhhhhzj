@@ -5,7 +5,8 @@
     <style>
       .title { font: 700 18px "Segoe UI", Arial, sans-serif; }
       .heading { font: 700 15px "Segoe UI", Arial, sans-serif; }
-      .value { font: 700 28px "Segoe UI", Arial, sans-serif; }
+      .value { font: 700 16px "Segoe UI", Arial, sans-serif; }
+      .metric { font: 600 14px "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; }
       .body { font: 500 14px "Segoe UI", Arial, sans-serif; }
       .small { font: 500 13px "Segoe UI", Arial, sans-serif; }
       .tiny { font: 600 11px "Segoe UI", Arial, sans-serif; letter-spacing: 0.2px; }
@@ -26,7 +27,7 @@
     <rect x="39" y="50" width="8" height="8" rx="1.5" />
     <rect x="50" y="50" width="8" height="8" rx="1.5" />
   </g>
-  <text x="68" y="49" class="title" fill="#ec4899">Contribution Pulse in the Last 30 Days</text>
+  <text x="68" y="49" class="title" fill="#ec4899">156 Contributions in the Last 30 Days</text>
 
   <g fill="#f9a8d4">
     <rect x="718" y="34" width="11" height="11" rx="1.5" />
@@ -60,20 +61,23 @@
   <rect x="376" y="88" width="350" height="96" rx="8" fill="#ffffff" stroke="#e5e7eb" />
   <rect x="738" y="88" width="348" height="96" rx="8" fill="#ffffff" stroke="#e5e7eb" />
 
-  <text x="28" y="118" class="heading" fill="#2563eb">Open/Closed Issue Ratio</text>
-  <text x="28" y="151" class="value" fill="#111827">Focused on shipping</text>
-  <text x="28" y="174" class="body" fill="#6b7280">Feature work first, issues when collaboration needs them.</text>
-  <text x="240" y="151" class="body" fill="#dc2626">past month</text>
+  <text x="28" y="118" class="value" fill="#2563eb">0 Opened/Closed Issue Ratio</text>
+  <text x="28" y="156" class="metric" fill="#6b7280">0 (0%)</text>
+  <path d="M242 143v10" stroke="#dc2626" stroke-width="1.8" stroke-linecap="round" />
+  <path d="M238 149l4 4 4-4" fill="none" stroke="#dc2626" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="255" y="156" class="body" fill="#dc2626">past month</text>
 
-  <text x="390" y="118" class="heading" fill="#8b5cf6">Pull Requests Opened</text>
-  <text x="390" y="151" class="value" fill="#111827">Review-ready changes</text>
-  <text x="390" y="174" class="body" fill="#6b7280">Clean commits and readable diffs for solo and team work.</text>
-  <text x="615" y="151" class="body" fill="#dc2626">past month</text>
+  <text x="390" y="118" class="value" fill="#8b5cf6">0 Pull Requests Opened</text>
+  <text x="390" y="156" class="metric" fill="#6b7280">0 (0%)</text>
+  <path d="M604 143v10" stroke="#dc2626" stroke-width="1.8" stroke-linecap="round" />
+  <path d="M600 149l4 4 4-4" fill="none" stroke="#dc2626" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="617" y="156" class="body" fill="#dc2626">past month</text>
 
-  <text x="752" y="118" class="heading" fill="#ea580c">Pushes</text>
-  <text x="752" y="151" class="value" fill="#111827">Steady rhythm</text>
-  <text x="752" y="174" class="body" fill="#6b7280">Consistent build-and-polish loops across profile projects.</text>
-  <text x="986" y="151" class="body" fill="#16a34a">past month</text>
+  <text x="752" y="118" class="value" fill="#ea580c">156 Pushes</text>
+  <text x="752" y="156" class="metric" fill="#6b7280">+24 (18.18%)</text>
+  <path d="M981 153v-10" stroke="#2f855a" stroke-width="1.8" stroke-linecap="round" />
+  <path d="M977 147l4-4 4 4" fill="none" stroke="#2f855a" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="994" y="156" class="body" fill="#2f855a">past month</text>
 
   <rect x="14" y="198" width="350" height="150" rx="8" fill="#ffffff" stroke="#e5e7eb" />
   <rect x="376" y="198" width="350" height="150" rx="8" fill="#ffffff" stroke="#e5e7eb" />
@@ -116,7 +120,7 @@
   </g>
   <text x="792" y="229" class="heading" fill="#ea580c">Pushes</text>
   <circle cx="996" cy="220" r="7" fill="#fb923c" />
-  <text x="1009" y="225" class="body" fill="#f97316">Build streak</text>
+  <text x="1009" y="225" class="body" fill="#f97316">Pushes</text>
 
   <g fill="#fb923c">
     <rect x="742" y="322" width="10" height="45" />
