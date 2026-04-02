@@ -23,14 +23,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flashhhhhhzj/Flashhhhhhzj/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Flashhhhhhzj/Flashhhhhhzj/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
 </picture>
-
-<img src="./assets/images/collab-banner.svg" alt="Open to collaboration" />
-
-<div align="center">
-  <a href="mailto:zhangjun@student.usm.my" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20to-Collaboration-14b8a6?style=for-the-badge&logo=mailboxdotorg&logoColor=white" alt="Open to collaboration" />
-  </a>
-</div>
 </div>
 
 <h1 align="center">🙋 Hello</h1>
@@ -95,21 +87,9 @@ Time tracking will appear here after WAKATIME_API_KEY is configured.
 
 <div align="center">
 
-<img src="./assets/images/man_run.png" width="250" height="250" alt="Running character" />
-
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23ffffff" />
-    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23ffffff" />
-  </picture>
-</div>
-
 <img align="left" width="150" src="./assets/images/left.png" alt="Left decoration" />
 <img src="https://streak-stats.demolab.com?user=Flashhhhhhzj&theme=default&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub streak" />
 <img align="right" width="150" src="./assets/images/right.png" alt="Right decoration" />
-
-<img src="https://raw.githubusercontent.com/Flashhhhhhzj/Flashhhhhhzj/main/github-metrics/base.svg" alt="GitHub base metrics" />
 
 <table>
   <tr>
@@ -128,21 +108,6 @@ Time tracking will appear here after WAKATIME_API_KEY is configured.
 <img width="200%" src="./assets/images/hr.gif" alt="Divider" />
 
 <div align="center">
-
-<img src="./assets/images/mb.png" width="250" height="250" alt="Character illustration" />
-
-<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote card" /><br/></div>
-
-<img width="120%" src="./assets/images/repobeats-placeholder.svg" alt="Repobeats placeholder" />
-
-<img src="./assets/images/icon.png" alt="Footer icon" />
-</div>
-
-<img width="200%" src="./assets/images/hr.gif" alt="Divider" />
-
-<div align="center">
-
-<img src="./assets/images/man.png" width="250" height="250" alt="Skill illustration" />
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
