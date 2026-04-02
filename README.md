@@ -125,35 +125,6 @@ Time tracking will appear here after WAKATIME_API_KEY is configured.
 
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote card" /><br/></div>
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Flashhhhhhzj/Flashhhhhhzj/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Flashhhhhhzj/Flashhhhhhzj/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Flashhhhhhzj/Flashhhhhhzj/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Flashhhhhhzj/Flashhhhhhzj/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Flashhhhhhzj/Flashhhhhhzj/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Flashhhhhhzj/Flashhhhhhzj/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Flashhhhhhzj/Flashhhhhhzj/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Flashhhhhhzj/Flashhhhhhzj/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Flashhhhhhzj/Flashhhhhhzj/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Flashhhhhhzj/Flashhhhhhzj/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Flashhhhhhzj/Flashhhhhhzj/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-</table>
-
 <img width="120%" src="./assets/images/repobeats-placeholder.svg" alt="Repobeats placeholder" />
 
 <img src="./assets/images/icon.png" alt="Footer icon" />
