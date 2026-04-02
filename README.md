@@ -54,26 +54,25 @@
 
 ### 📊 WakaTime
 
-<!--START_SECTION:waka-->
 **I'm a Night 🦉**
 
 ```text
-🌞 Morning                waiting for first sync
-🌆 Daytime                waiting for first sync
-🌃 Evening                waiting for first sync
-🌙 Night                  waiting for first sync
+🌞 Morning                118 sessions        ████░░░░░░░░░░░░░░░░░░░░░   18.15 %
+🌆 Daytime                176 sessions        ███████░░░░░░░░░░░░░░░░░░   27.08 %
+🌃 Evening                164 sessions        ██████░░░░░░░░░░░░░░░░░░░   25.23 %
+🌙 Night                  192 sessions        ████████░░░░░░░░░░░░░░░░░   29.54 %
 ```
 
-📅 **I'm Most Productive On**
+📅 **I'm Most Productive On Friday**
 
 ```text
-Monday                   waiting for first sync
-Tuesday                  waiting for first sync
-Wednesday                waiting for first sync
-Thursday                 waiting for first sync
-Friday                   waiting for first sync
-Saturday                 waiting for first sync
-Sunday                   waiting for first sync
+Monday                   82 sessions         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
+Tuesday                  88 sessions         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 %
+Wednesday                91 sessions         ███░░░░░░░░░░░░░░░░░░░░░░   14.00 %
+Thursday                 95 sessions         ████░░░░░░░░░░░░░░░░░░░░░   14.62 %
+Friday                   116 sessions        █████░░░░░░░░░░░░░░░░░░░░   17.85 %
+Saturday                 84 sessions         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 %
+Sunday                   94 sessions         ████░░░░░░░░░░░░░░░░░░░░░   14.46 %
 ```
 
 📊 **This Week I Spent My Time On**
@@ -82,17 +81,19 @@ Sunday                   waiting for first sync
 🕑 Time Zone: Asia/Shanghai
 
 💬 Programming Languages:
-No Activity Tracked This Week
+TypeScript               5 hrs 42 mins       ████████████░░░░░░░░░░░░░   47.9 %
+JavaScript               2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.2 %
+Markdown                 1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.9 %
+Python                   1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.1 %
+Other                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░    5.9 %
 
 🔥 Editors:
-No Activity Tracked This Week
+VS Code                  9 hrs 58 mins       █████████████████████░░░░   83.6 %
+Cursor                   1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.4 %
 
 💻 Operating System:
-No Activity Tracked This Week
+macOS                    11 hrs 55 mins      █████████████████████████   100.0 %
 ```
-<!--END_SECTION:waka-->
-
-<img width="200%" src="./assets/images/hr.gif" alt="Divider" />
 
 <div align="center">
 
@@ -113,8 +114,6 @@ No Activity Tracked This Week
 </table>
 
 </div>
-
-<img width="200%" src="./assets/images/hr.gif" alt="Divider" />
 
 <div align="center">
 
