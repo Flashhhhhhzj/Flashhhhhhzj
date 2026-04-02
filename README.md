@@ -176,9 +176,17 @@ macOS                    11 hrs 55 mins      ███████████�
     <td><img src="./github-metrics/stackoverflow.svg" alt="Stack Overflow metrics" /></td>
   </tr>
   <tr>
+    <td><img src="./github-metrics/stars.svg" alt="Recently starred repositories metrics" /></td>
     <td><img src="./github-metrics/stargazers.chartist.svg" alt="Stargazers metrics" /></td>
+  </tr>
+  <tr>
+    <td><img src="./github-metrics/isocalendar.fullyear.svg" alt="Isometric calendar metrics" /></td>
     <td><img src="./github-metrics/calendar.full.svg" alt="Contribution calendar metrics" /></td>
   </tr>
 </table>
+
+<img src="./assets/images/repobeats-placeholder.svg" alt="Contribution rhythm" width="100%" />
+
+<img src="./assets/images/icon.png" alt="Footer banner" />
 
 </div>
