@@ -19,9 +19,9 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Flashhhhhhzj/Flashhhhhhzj/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Flashhhhhhzj/Flashhhhhhzj/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Flashhhhhhzj/Flashhhhhhzj/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flashhhhhhzj/Flashhhhhhzj/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flashhhhhhzj/Flashhhhhhzj/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Flashhhhhhzj/Flashhhhhhzj/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
 </picture>
 
 <img src="./assets/images/collab-banner.svg" alt="Open to collaboration" />
@@ -101,7 +101,7 @@ Time tracking will appear here after WAKATIME_API_KEY is configured.
 <img src="https://streak-stats.demolab.com?user=Flashhhhhhzj&theme=default&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub streak" />
 <img align="right" width="150" src="./assets/images/right.png" alt="Right decoration" />
 
-<img src="https://cdn.jsdelivr.net/gh/Flashhhhhhzj/Flashhhhhhzj/github-metrics/base.svg" alt="GitHub base metrics" />
+<img src="https://raw.githubusercontent.com/Flashhhhhhzj/Flashhhhhhzj/main/github-metrics/base.svg" alt="GitHub base metrics" />
 
 <table>
   <tr>
@@ -168,9 +168,9 @@ Time tracking will appear here after WAKATIME_API_KEY is configured.
 <img height="100" width="100" src="./assets/images/github.webp" alt="GitHub gif">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Flashhhhhhzj/Flashhhhhhzj/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Flashhhhhhzj/Flashhhhhhzj/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/Flashhhhhhzj/Flashhhhhhzj/profile-3d-contrib/profile-gitblock.svg" alt="3D contribution profile" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flashhhhhhzj/Flashhhhhhzj/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flashhhhhhzj/Flashhhhhhzj/main/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://raw.githubusercontent.com/Flashhhhhhzj/Flashhhhhhzj/main/profile-3d-contrib/profile-gitblock.svg" alt="3D contribution profile" />
 </picture>
 
 </div>
