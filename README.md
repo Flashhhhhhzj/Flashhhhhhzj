@@ -33,43 +33,49 @@
 </div>
 </div>
 
-# 🙋 Hello
+<h1 align="center">🙋 Hello</h1>
 
-<table>
-<tr><td>
+<table width="100%">
+<tr><td align="center">
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="./assets/images/jobs.png" alt="About me illustration" />
+<img align="right" width="88" src="https://raw.githubusercontent.com/Flashhhhhhzj/Flashhhhhhzj/main/assets/images/jobs.png" alt="About me illustration" />
 
-<p>&emsp;&emsp;嗨，你好，我是 Heidanr，目前在 USM 学习 Computer Science。</p>
-<p>&emsp;&emsp;我喜欢把课程项目做得不只是“交作业”，而是继续打磨成像样、可展示、可复用的真实作品。</p>
-<p>&emsp;&emsp;最近主要在折腾前端体验、文档自动化、Markdown 转换、知识库整理，以及 AI 辅助工作流。</p>
-<p>&emsp;&emsp;<strong>I enjoy turning messy ideas and repetitive tasks into clean, useful workflows.</strong></p>
+<p align="center">嗨，你好，我是 Heidanr，目前在 USM 学习 Computer Science。</p>
+<p align="center">我喜欢把课程项目做得不只是“交作业”，而是继续打磨成像样、可展示、可复用的真实作品。</p>
+<p align="center">最近主要在折腾前端体验、文档自动化、Markdown 转换、知识库整理，以及 AI 辅助工作流。</p>
+<p align="center"><strong>I enjoy turning messy ideas and repetitive tasks into clean, useful workflows.</strong></p>
 
 </td></tr>
 
-<tr><td>
+<tr><td align="center">
 
 ### 📃 Recent Feed
 
-<img align="right" width="88" src="./assets/images/astronaut.png" alt="Feed illustration" />
+<img align="right" width="88" src="https://raw.githubusercontent.com/Flashhhhhhzj/Flashhhhhhzj/main/assets/images/astronaut.png" alt="Feed illustration" />
 
 <!-- feed start -->
+<div align="left">
+
 - Apr 02 - Rebuilding my GitHub profile into a full showcase with 3D, snake, metrics, and light-theme cards
 - Apr 01 - Improving Feishu or Lark to Markdown automation for cleaner publishing workflows
 - Mar 30 - Polishing repo presentation so student projects feel more like real products
 - Mar 28 - Iterating on frontend details, documentation clarity, and developer experience
 - Mar 25 - Exploring AI-assisted content extraction and structured knowledge import flows
+
+</div>
 <!-- feed end -->
 
 </td></tr>
 
-<tr><td>
+<tr><td align="center">
 
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
+<div align="center">
+
 ```text
 Time tracking will appear here after WAKATIME_API_KEY is configured.
 
@@ -78,6 +84,8 @@ Time tracking will appear here after WAKATIME_API_KEY is configured.
 🔥 Editors: waiting for first sync
 💻 Operating System: waiting for first sync
 ```
+
+</div>
 <!--END_SECTION:waka-->
 
 </td></tr>
