@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+  <title id="title">Contribution snake placeholder dark</title>
+  <desc id="desc">Run the Snake Contrib workflow to replace this placeholder with a generated SVG.</desc>
+  <rect width="1200" height="220" rx="24" fill="#0f172a" />
+  <text x="60" y="82" fill="#f8fafc" font-size="32" font-family="Arial, sans-serif" font-weight="700">
+    Contribution Snake
+  </text>
+  <text x="60" y="120" fill="#cbd5e1" font-size="20" font-family="Arial, sans-serif">
+    Run .github/workflows/snake.yml to generate the animated contribution path.
+  </text>
+  <g fill="#22c55e">
+    <rect x="60" y="150" width="26" height="26" rx="6" />
+    <rect x="96" y="150" width="26" height="26" rx="6" />
+    <rect x="132" y="150" width="26" height="26" rx="6" />
+    <rect x="168" y="124" width="26" height="26" rx="6" />
+    <rect x="204" y="124" width="26" height="26" rx="6" />
+    <rect x="240" y="124" width="26" height="26" rx="6" />
+    <rect x="276" y="98" width="26" height="26" rx="6" />
+    <rect x="312" y="98" width="26" height="26" rx="6" />
+  </g>
+  <circle cx="356" cy="111" r="18" fill="#f59e0b" />
+</svg>

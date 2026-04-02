@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">3D contribution graph placeholder</title>
+  <desc id="desc">Run the 3D Contrib workflow to replace this placeholder with a generated SVG.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#1f2937" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" x2="100%" y1="0%" y2="0%">
+      <stop offset="0%" stop-color="#14b8a6" />
+      <stop offset="50%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)" />
+  <g fill="none" stroke="url(#accent)" stroke-width="2" opacity="0.35">
+    <path d="M60 250 C180 150, 280 150, 390 220 S620 290, 760 210 S980 120, 1140 210" />
+    <path d="M60 270 C180 170, 280 170, 390 240 S620 310, 760 230 S980 140, 1140 230" />
+  </g>
+  <text x="60" y="110" fill="#f8fafc" font-size="34" font-family="Arial, sans-serif" font-weight="700">
+    3D Contribution Graph
+  </text>
+  <text x="60" y="155" fill="#cbd5e1" font-size="20" font-family="Arial, sans-serif">
+    This placeholder will be replaced after the GitHub Action runs.
+  </text>
+  <text x="60" y="190" fill="#94a3b8" font-size="18" font-family="Arial, sans-serif">
+    Workflow: .github/workflows/contrib.yml
+  </text>
+  <g transform="translate(760 70)">
+    <rect width="320" height="180" rx="18" fill="#0b1220" stroke="#334155" />
+    <g transform="translate(28 28)">
+      <rect x="0" y="96" width="28" height="28" fill="#0f766e" />
+      <rect x="36" y="72" width="28" height="52" fill="#14b8a6" />
+      <rect x="72" y="48" width="28" height="76" fill="#38bdf8" />
+      <rect x="108" y="24" width="28" height="100" fill="#f59e0b" />
+      <rect x="144" y="60" width="28" height="64" fill="#84cc16" />
+      <rect x="180" y="36" width="28" height="88" fill="#f97316" />
+      <rect x="216" y="84" width="28" height="40" fill="#22c55e" />
+    </g>
+  </g>
+</svg>

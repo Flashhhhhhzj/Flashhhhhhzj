@@ -30,6 +30,14 @@
   </a>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img src="./profile-snake-contrib/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+  </picture>
+</p>
+
 <h2 align="center">Hello, I'm Heidanr</h2>
 
 <p align="center">
@@ -81,30 +89,24 @@
 ## GitHub Snapshot
 
 <p align="center">
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Flashhhhhhzj&theme=github_dark"
-    alt="GitHub summary stats"
-  />
-  <img
-    width="49%"
-    src="https://streak-stats.demolab.com?user=Flashhhhhhzj&hide_border=true&theme=vue-dark"
-    alt="GitHub streak"
-  />
+  <img src="./github-metrics/base.svg" alt="GitHub base metrics" />
 </p>
 
-<p align="center">
-  <img
-    width="41%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Flashhhhhhzj&theme=github_dark"
-    alt="Repositories per language"
-  />
-  <img
-    width="56%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flashhhhhhzj&theme=github_dark"
-    alt="Profile summary"
-  />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./github-metrics/languages.indepth.svg" alt="Languages metrics" />
+    </td>
+    <td width="50%">
+      <img src="./github-metrics/habits.charts.svg" alt="Habits metrics" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="./github-metrics/isocalendar.fullyear.svg" alt="Isometric contribution calendar" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img
@@ -112,6 +114,12 @@
     src="https://github-readme-activity-graph.vercel.app/graph?username=Flashhhhhhzj&bg_color=0d1117&color=ffffff&line=14b8a6&point=f59e0b&area=true&hide_border=true"
     alt="Contribution graph"
   />
+</p>
+
+## 3D Contributions
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </p>
 
 ## Reach Me
