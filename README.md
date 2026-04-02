@@ -99,32 +99,6 @@
 
 <div align="center">
 
-## 🧩 GitHub Dashboard
-
-<img src="./github-metrics/people.followers.svg" alt="Followers metrics" width="100%" />
-
-<table>
-  <tr>
-    <td><img src="./github-metrics/languages.indepth.svg" alt="Languages metrics" /></td>
-    <td><img src="./github-metrics/reactions.svg" alt="Reactions metrics" /></td>
-  </tr>
-  <tr>
-    <td><img src="./github-metrics/followup.indepth.svg" alt="Issues and pull requests metrics" /></td>
-    <td><img src="./github-metrics/repositories.pinned.svg" alt="Pinned repositories metrics" /></td>
-  </tr>
-  <tr>
-    <td><img src="./github-metrics/wakatime.svg" alt="WakaTime metrics" /></td>
-    <td><img src="./github-metrics/stackoverflow.svg" alt="Stack Overflow metrics" /></td>
-  </tr>
-  <tr>
-    <td><img src="./github-metrics/stars.svg" alt="Recently starred repositories metrics" /></td>
-    <td><img src="./github-metrics/stargazers.chartist.svg" alt="Stargazers metrics" /></td>
-  </tr>
-  <tr>
-    <td><img src="./github-metrics/isocalendar.fullyear.svg" alt="Isometric calendar metrics" /></td>
-    <td><img src="./github-metrics/calendar.full.svg" alt="Contribution calendar metrics" /></td>
-  </tr>
-</table>
 
 <img src="./assets/images/repobeats-placeholder.svg" alt="Contribution rhythm" width="100%" />
 
