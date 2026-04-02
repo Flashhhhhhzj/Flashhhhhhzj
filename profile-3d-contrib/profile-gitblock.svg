@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">3D contribution graph placeholder light</title>
+  <desc id="desc">Run the 3D Contrib workflow to replace this placeholder with a generated SVG.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f8fbff" />
+      <stop offset="100%" stop-color="#eefbf7" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)" stroke="#dbeafe" />
+  <text x="60" y="110" fill="#0f172a" font-size="34" font-family="Arial, sans-serif" font-weight="700">3D Contribution Graph</text>
+  <text x="60" y="155" fill="#475569" font-size="20" font-family="Arial, sans-serif">This placeholder will be replaced after the GitHub Action runs.</text>
+  <text x="60" y="190" fill="#64748b" font-size="18" font-family="Arial, sans-serif">Workflow: .github/workflows/contrib.yml</text>
+  <g transform="translate(760 70)">
+    <rect width="320" height="180" rx="18" fill="#ffffff" stroke="#dbeafe" />
+    <g transform="translate(28 28)">
+      <rect x="0" y="96" width="28" height="28" fill="#0f766e" />
+      <rect x="36" y="72" width="28" height="52" fill="#14b8a6" />
+      <rect x="72" y="48" width="28" height="76" fill="#38bdf8" />
+      <rect x="108" y="24" width="28" height="100" fill="#f59e0b" />
+      <rect x="144" y="60" width="28" height="64" fill="#84cc16" />
+      <rect x="180" y="36" width="28" height="88" fill="#f97316" />
+      <rect x="216" y="84" width="28" height="40" fill="#22c55e" />
+    </g>
+  </g>
+</svg>

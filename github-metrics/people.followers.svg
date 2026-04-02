@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="220" viewBox="0 0 860 220" role="img" aria-labelledby="title desc">
+  <title id="title">Followers placeholder</title>
+  <desc id="desc">Run the GitHub Metrics workflow to replace this placeholder.</desc>
+  <rect width="860" height="220" rx="20" fill="#f8fbff" stroke="#dbeafe" />
+  <text x="30" y="52" fill="#0f172a" font-size="24" font-family="Arial, sans-serif" font-weight="700">Followers</text>
+  <text x="30" y="84" fill="#64748b" font-size="16" font-family="Arial, sans-serif">Follower avatars will appear here after metrics are generated.</text>
+  <g fill="#cbd5e1">
+    <circle cx="86" cy="146" r="28" />
+    <circle cx="164" cy="146" r="28" />
+    <circle cx="242" cy="146" r="28" />
+    <circle cx="320" cy="146" r="28" />
+    <circle cx="398" cy="146" r="28" />
+    <circle cx="476" cy="146" r="28" />
+  </g>
+</svg>

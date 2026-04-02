@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="260" viewBox="0 0 430 260" role="img" aria-labelledby="title desc">
+  <title id="title">Full calendar placeholder</title>
+  <desc id="desc">Run the GitHub Metrics workflow to replace this placeholder.</desc>
+  <rect width="430" height="260" rx="20" fill="#f8fbff" stroke="#dbeafe" />
+  <text x="28" y="52" fill="#0f172a" font-size="24" font-family="Arial, sans-serif" font-weight="700">Full Contribution Calendar</text>
+  <text x="28" y="86" fill="#64748b" font-size="16" font-family="Arial, sans-serif">The full contribution heatmap appears here.</text>
+  <g fill="#e2e8f0">
+    <rect x="28" y="122" width="18" height="18" rx="4" />
+    <rect x="52" y="122" width="18" height="18" rx="4" />
+    <rect x="76" y="122" width="18" height="18" rx="4" />
+    <rect x="100" y="122" width="18" height="18" rx="4" fill="#bfdbfe" />
+    <rect x="124" y="122" width="18" height="18" rx="4" fill="#93c5fd" />
+    <rect x="148" y="122" width="18" height="18" rx="4" fill="#60a5fa" />
+    <rect x="172" y="122" width="18" height="18" rx="4" fill="#34d399" />
+  </g>
+</svg>

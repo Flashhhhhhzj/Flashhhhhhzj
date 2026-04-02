@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="260" viewBox="0 0 430 260" role="img" aria-labelledby="title desc">
+  <title id="title">Reactions placeholder</title>
+  <desc id="desc">Run the GitHub Metrics workflow to replace this placeholder.</desc>
+  <rect width="430" height="260" rx="20" fill="#f8fbff" stroke="#dbeafe" />
+  <text x="28" y="52" fill="#0f172a" font-size="26" font-family="Arial, sans-serif" font-weight="700">Comment Reactions</text>
+  <text x="28" y="86" fill="#64748b" font-size="16" font-family="Arial, sans-serif">Reaction percentages will be generated here.</text>
+  <text x="28" y="138" fill="#f59e0b" font-size="18" font-family="Arial, sans-serif">+1</text>
+  <rect x="74" y="124" width="220" height="16" rx="8" fill="#fde68a" />
+  <text x="28" y="176" fill="#14b8a6" font-size="18" font-family="Arial, sans-serif">heart</text>
+  <rect x="90" y="162" width="170" height="16" rx="8" fill="#99f6e4" />
+</svg>

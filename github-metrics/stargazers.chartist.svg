@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="260" viewBox="0 0 430 260" role="img" aria-labelledby="title desc">
+  <title id="title">Stargazers chart placeholder</title>
+  <desc id="desc">Run the GitHub Metrics workflow to replace this placeholder.</desc>
+  <rect width="430" height="260" rx="20" fill="#f8fbff" stroke="#dbeafe" />
+  <text x="28" y="52" fill="#0f172a" font-size="24" font-family="Arial, sans-serif" font-weight="700">Stargazers Chart</text>
+  <text x="28" y="86" fill="#64748b" font-size="16" font-family="Arial, sans-serif">Star growth over time will be charted here.</text>
+  <polyline points="40,190 96,176 152,150 208,132 264,110 320,92 376,72" fill="none" stroke="#60a5fa" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

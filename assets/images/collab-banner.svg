@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="160" viewBox="0 0 900 160" role="img" aria-labelledby="title desc">
+  <title id="title">Collaboration banner</title>
+  <desc id="desc">A banner inviting collaboration on student projects and developer tooling.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="0%">
+      <stop offset="0%" stop-color="#d1fae5" />
+      <stop offset="50%" stop-color="#dbeafe" />
+      <stop offset="100%" stop-color="#fef3c7" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="160" rx="22" fill="url(#bg)" stroke="#dbeafe" />
+  <text x="42" y="62" fill="#0f172a" font-size="30" font-family="Arial, sans-serif" font-weight="700">Open To Collaboration</text>
+  <text x="42" y="102" fill="#475569" font-size="18" font-family="Arial, sans-serif">Student projects, web apps, document automation, and practical developer workflows.</text>
+</svg>

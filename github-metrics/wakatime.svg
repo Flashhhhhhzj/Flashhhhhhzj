@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="260" viewBox="0 0 430 260" role="img" aria-labelledby="title desc">
+  <title id="title">WakaTime metrics placeholder</title>
+  <desc id="desc">Configure WAKATIME_API_KEY to replace this placeholder.</desc>
+  <rect width="430" height="260" rx="20" fill="#f8fbff" stroke="#dbeafe" />
+  <text x="28" y="52" fill="#0f172a" font-size="26" font-family="Arial, sans-serif" font-weight="700">WakaTime</text>
+  <text x="28" y="86" fill="#64748b" font-size="16" font-family="Arial, sans-serif">Configure WAKATIME_API_KEY to generate this card.</text>
+  <rect x="28" y="124" width="260" height="16" rx="8" fill="#ddd6fe" />
+  <rect x="28" y="152" width="200" height="16" rx="8" fill="#bfdbfe" />
+  <rect x="28" y="180" width="140" height="16" rx="8" fill="#99f6e4" />
+</svg>

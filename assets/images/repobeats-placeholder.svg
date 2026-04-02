@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="180" viewBox="0 0 1100 180" role="img" aria-labelledby="title desc">
+  <title id="title">Repobeats placeholder</title>
+  <desc id="desc">A lightweight placeholder in the style of a contribution velocity chart.</desc>
+  <rect width="1100" height="180" rx="22" fill="#f8fbff" stroke="#dbeafe" />
+  <text x="34" y="56" fill="#0f172a" font-size="26" font-family="Arial, sans-serif" font-weight="700">Contribution Rhythm</text>
+  <text x="34" y="92" fill="#64748b" font-size="16" font-family="Arial, sans-serif">This section can later be replaced with a real Repobeats embed if you want.</text>
+  <polyline points="38,142 140,138 242,124 344,132 446,108 548,116 650,92 752,88 854,70 956,82 1058,54" fill="none" stroke="#14b8a6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

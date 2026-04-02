@@ -1,23 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="430" height="260" viewBox="0 0 430 260" role="img" aria-labelledby="title desc">
   <title id="title">Habits metrics placeholder</title>
   <desc id="desc">Run the GitHub Metrics workflow to replace this placeholder with a generated SVG.</desc>
-  <rect width="430" height="260" rx="20" fill="#111827" />
-  <text x="28" y="52" fill="#f8fafc" font-size="26" font-family="Arial, sans-serif" font-weight="700">
-    Coding Habits
-  </text>
-  <text x="28" y="86" fill="#cbd5e1" font-size="16" font-family="Arial, sans-serif">
-    Daily and weekly rhythm appears here after the action runs.
-  </text>
-  <g fill="#334155">
-    <rect x="34" y="196" width="26" height="28" rx="6" />
-    <rect x="72" y="176" width="26" height="48" rx="6" />
-    <rect x="110" y="154" width="26" height="70" rx="6" />
-    <rect x="148" y="132" width="26" height="92" rx="6" />
-    <rect x="186" y="112" width="26" height="112" rx="6" />
-    <rect x="224" y="144" width="26" height="80" rx="6" />
-    <rect x="262" y="166" width="26" height="58" rx="6" />
-  </g>
-  <g fill="#14b8a6">
+  <rect width="430" height="260" rx="20" fill="#f8fbff" stroke="#dbeafe" />
+  <text x="28" y="52" fill="#0f172a" font-size="26" font-family="Arial, sans-serif" font-weight="700">Coding Habits</text>
+  <text x="28" y="86" fill="#64748b" font-size="16" font-family="Arial, sans-serif">Daily and weekly rhythm appears here after the action runs.</text>
+  <g fill="#2dd4bf">
     <rect x="34" y="196" width="26" height="28" rx="6" />
     <rect x="72" y="176" width="26" height="48" rx="6" />
     <rect x="110" y="154" width="26" height="70" rx="6" />
