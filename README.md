@@ -41,15 +41,11 @@
 <img align="right" width="88" src="./assets/images/astronaut.png" alt="Feed illustration" />
 
 <!-- feed start -->
-<div align="left">
-
-- Apr 02 - Rebuilding my GitHub profile into a full showcase with 3D, snake, metrics, and light-theme cards
-- Apr 01 - Improving Feishu or Lark to Markdown automation for cleaner publishing workflows
-- Mar 30 - Polishing repo presentation so student projects feel more like real products
-- Mar 28 - Iterating on frontend details, documentation clarity, and developer experience
-- Mar 25 - Exploring AI-assisted content extraction and structured knowledge import flows
-
-</div>
+- Apr 02 - [Flashhhhhhzj pushed Flashhhhhhzj](https://github.com/Flashhhhhhzj/Flashhhhhhzj/compare/944fb3c1c5...28c2f2892c)
+- Apr 02 - [Flashhhhhhzj pushed Flashhhhhhzj](https://github.com/Flashhhhhhzj/Flashhhhhhzj/compare/2350cc9a72...944fb3c1c5)
+- Apr 02 - [Flashhhhhhzj pushed Flashhhhhhzj](https://github.com/Flashhhhhhzj/Flashhhhhhzj/compare/289130c29e...2350cc9a72)
+- Apr 02 - [Flashhhhhhzj pushed Flashhhhhhzj](https://github.com/Flashhhhhhzj/Flashhhhhhzj/compare/1d9b514bcc...289130c29e)
+- Apr 02 - [Flashhhhhhzj pushed Flashhhhhhzj](https://github.com/Flashhhhhhzj/Flashhhhhhzj/compare/f1265fa14a...f0e727782d)
 <!-- feed end -->
 
 ### 📊 WakaTime
