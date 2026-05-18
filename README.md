@@ -41,6 +41,7 @@
 <img align="right" width="88" src="./assets/images/astronaut.png" alt="Feed illustration" />
 
 <!-- feed start -->
+- May 17 - [Flashhhhhhzj starred D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
 - May 07 - [Flashhhhhhzj commented on an issue in codex](https://github.com/openai/codex/issues/21501#issuecomment-4394734970)
 - May 07 - [Flashhhhhhzj opened an issue in codex](https://github.com/openai/codex/issues/21501)
 - May 07 - [Flashhhhhhzj labeled an issue in codex](https://github.com/openai/codex/issues/21501)
