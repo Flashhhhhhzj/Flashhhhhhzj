@@ -41,11 +41,11 @@
 <img align="right" width="88" src="./assets/images/astronaut.png" alt="Feed illustration" />
 
 <!-- feed start -->
+- Jun 17 - [Flashhhhhhzj opened a pull request in termdock](https://github.com/St0ff3l/termdock/pull/39)
+- Jun 17 - [Flashhhhhhzj created a branch](https://github.com/St0ff3l/termdock/compare/0000000000...581cb64869)
 - Jun 10 - [Flashhhhhhzj pushed termdock](https://github.com/St0ff3l/termdock/compare/e07b94a0d5...7ebbd50263)
 - Jun 10 - [Flashhhhhhzj contributed to St0ff3l/termdock](https://github.com/St0ff3l/termdock/pull/29)
 - Jun 10 - [Flashhhhhhzj contributed to St0ff3l/termdock](https://github.com/St0ff3l/termdock/pull/29)
-- Jun 10 - [Flashhhhhhzj pushed termdock](https://github.com/St0ff3l/termdock/compare/a92fe82046...2f2c896c03)
-- Jun 08 - [Flashhhhhhzj created a branch](https://github.com/St0ff3l/termdock/compare/0000000000...a9bd7b5c86)
 <!-- feed end -->
 
 ### 📊 WakaTime
