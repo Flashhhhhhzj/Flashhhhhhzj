@@ -41,10 +41,10 @@
 <img align="right" width="88" src="./assets/images/astronaut.png" alt="Feed illustration" />
 
 <!-- feed start -->
+- Jun 20 - [Flashhhhhhzj pushed termdock](https://github.com/St0ff3l/termdock/compare/52a3d0a0ea...2e470317a6)
 - Jun 17 - [Flashhhhhhzj opened a pull request in termdock](https://github.com/St0ff3l/termdock/pull/39)
 - Jun 17 - [Flashhhhhhzj created a branch](https://github.com/St0ff3l/termdock/compare/0000000000...581cb64869)
 - Jun 10 - [Flashhhhhhzj pushed termdock](https://github.com/St0ff3l/termdock/compare/e07b94a0d5...7ebbd50263)
-- Jun 10 - [Flashhhhhhzj contributed to St0ff3l/termdock](https://github.com/St0ff3l/termdock/pull/29)
 - Jun 10 - [Flashhhhhhzj contributed to St0ff3l/termdock](https://github.com/St0ff3l/termdock/pull/29)
 <!-- feed end -->
 
