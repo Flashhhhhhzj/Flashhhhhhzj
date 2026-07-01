@@ -61,9 +61,9 @@
 <img src="./assets/images/icon.png" alt="Footer banner" />
 
 <!-- feed start -->
-- Jun 26 - [Flashhhhhhzj pushed termdock](https://github.com/St0ff3l/termdock/compare/8e8e58d961...c1e3f52907)
-- Jun 26 - [Flashhhhhhzj contributed to St0ff3l/termdock](https://github.com/St0ff3l/termdock/pull/59)
-- Jun 26 - [Flashhhhhhzj contributed to St0ff3l/termdock](https://github.com/St0ff3l/termdock/pull/59)
-- Jun 26 - [Flashhhhhhzj pushed termdock](https://github.com/St0ff3l/termdock/compare/f84f49c3a9...54d6750cec)
-- Jun 26 - [Flashhhhhhzj forked Flashhhhhhzj/ClashMac from 666OS/ClashMac](https://github.com/Flashhhhhhzj/ClashMac)
+- Jun 30 - [Flashhhhhhzj pushed fileterm](https://github.com/St0ff3l/fileterm/compare/54d6750cec...1f7891ee9e)
+- Jun 26 - [Flashhhhhhzj pushed fileterm](https://github.com/St0ff3l/fileterm/compare/8e8e58d961...c1e3f52907)
+- Jun 26 - [Flashhhhhhzj contributed to St0ff3l/fileterm](https://github.com/St0ff3l/fileterm/pull/59)
+- Jun 26 - [Flashhhhhhzj contributed to St0ff3l/fileterm](https://github.com/St0ff3l/fileterm/pull/59)
+- Jun 26 - [Flashhhhhhzj pushed fileterm](https://github.com/St0ff3l/fileterm/compare/f84f49c3a9...54d6750cec)
 <!-- feed end -->
