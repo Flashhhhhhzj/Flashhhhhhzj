@@ -63,6 +63,5 @@
 <!-- feed start -->
 - Aug 03 - [Flashhhhhhzj starred Flashhhhhhzj/Mac-TaskManager](https://github.com/Flashhhhhhzj/Mac-TaskManager)
 - Jul 21 - [Flashhhhhhzj commented on an issue in fileterm](https://github.com/St0ff3l/fileterm/issues/124#issuecomment-5030937395)
-- Jul 18 - [Flashhhhhhzj commented on an issue in fileterm](https://github.com/St0ff3l/fileterm/issues/81#issuecomment-5009922148)
 - Jul 02 - [Flashhhhhhzj made this repository public](https://github.com/Flashhhhhhzj/Mac-TaskManager)
 <!-- feed end -->
