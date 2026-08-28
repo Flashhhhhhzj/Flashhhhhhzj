@@ -61,6 +61,8 @@
 <img src="./assets/images/icon.png" alt="Footer banner" />
 
 <!-- feed start -->
+- Aug 27 - [Flashhhhhhzj opened an issue in my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex/issues/145)
+- Aug 27 - [Flashhhhhhzj starred HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)
 - Aug 03 - [Flashhhhhhzj starred Flashhhhhhzj/Mac-TaskManager](https://github.com/Flashhhhhhzj/Mac-TaskManager)
 - Jul 02 - [Flashhhhhhzj made this repository public](https://github.com/Flashhhhhhzj/Mac-TaskManager)
 <!-- feed end -->
