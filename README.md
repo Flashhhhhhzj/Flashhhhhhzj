@@ -61,9 +61,9 @@
 <img src="./assets/images/icon.png" alt="Footer banner" />
 
 <!-- feed start -->
+- Oct 02 - [Flashhhhhhzj starred St0ff3l/fileterm](https://github.com/St0ff3l/fileterm)
+- Oct 01 - [Flashhhhhhzj pushed Mac-TaskManager](https://github.com/Flashhhhhhzj/Mac-TaskManager/compare/74b82f42ba...0b0dca14f5)
 - Oct 01 - [Flashhhhhhzj contributed to Flashhhhhhzj/Mac-TaskManager](https://github.com/Flashhhhhhzj/Mac-TaskManager/pull/4)
 - Oct 01 - [Flashhhhhhzj contributed to Flashhhhhhzj/Mac-TaskManager](https://github.com/Flashhhhhhzj/Mac-TaskManager/pull/4)
 - Oct 01 - [Flashhhhhhzj released v1.0.0-beta.2 at Flashhhhhhzj/Mac-TaskManager](https://github.com/Flashhhhhhzj/Mac-TaskManager/releases/tag/v1.0.0-beta.2)
-- Oct 01 - [Flashhhhhhzj pushed Mac-TaskManager](https://github.com/Flashhhhhhzj/Mac-TaskManager/compare/6bec8b2511...0c36963c36)
-- Sep 26 - [Flashhhhhhzj pushed Mac-TaskManager](https://github.com/Flashhhhhhzj/Mac-TaskManager/compare/1b7acb1c12...6bec8b2511)
 <!-- feed end -->
