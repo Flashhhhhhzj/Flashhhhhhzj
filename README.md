@@ -63,7 +63,4 @@
 <!-- feed start -->
 - Oct 08 - [Flashhhhhhzj forked Flashhhhhhzj/PCL.Mac from PCL-Community/PCL.Mac](https://github.com/Flashhhhhhzj/PCL.Mac)
 - Oct 02 - [Flashhhhhhzj starred St0ff3l/fileterm](https://github.com/St0ff3l/fileterm)
-- Oct 01 - [Flashhhhhhzj pushed Mac-TaskManager](https://github.com/Flashhhhhhzj/Mac-TaskManager/compare/74b82f42ba...0b0dca14f5)
-- Oct 01 - [Flashhhhhhzj contributed to Flashhhhhhzj/Mac-TaskManager](https://github.com/Flashhhhhhzj/Mac-TaskManager/pull/4)
-- Oct 01 - [Flashhhhhhzj contributed to Flashhhhhhzj/Mac-TaskManager](https://github.com/Flashhhhhhzj/Mac-TaskManager/pull/4)
 <!-- feed end -->
