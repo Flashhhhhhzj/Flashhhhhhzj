@@ -61,9 +61,9 @@
 <img src="./assets/images/icon.png" alt="Footer banner" />
 
 <!-- feed start -->
-- Oct 22 - [Flashhhhhhzj pushed mac-task-manager](https://github.com/Flashhhhhhzj/mac-task-manager/compare/eea8cf2241...add9d612bd)
-- Oct 22 - [Flashhhhhhzj contributed to Flashhhhhhzj/mac-task-manager](https://github.com/Flashhhhhhzj/mac-task-manager/pull/8)
-- Oct 22 - [Flashhhhhhzj contributed to Flashhhhhhzj/mac-task-manager](https://github.com/Flashhhhhhzj/mac-task-manager/pull/8)
-- Oct 22 - [Flashhhhhhzj created a branch](https://github.com/Flashhhhhhzj/mac-task-manager/compare/0000000000...0a521c3368)
-- Oct 08 - [Flashhhhhhzj forked Flashhhhhhzj/PCL.Mac from PCL-Community/PCL.Mac](https://github.com/Flashhhhhhzj/PCL.Mac)
+- Oct 24 - [Flashhhhhhzj deleted](https://github.com/Flashhhhhhzj/mac-task-manager/compare/08f0a039e6...0000000000)
+- Oct 24 - [Flashhhhhhzj pushed mac-task-manager](https://github.com/Flashhhhhhzj/mac-task-manager/compare/add9d612bd...33b72d0010)
+- Oct 24 - [Flashhhhhhzj contributed to Flashhhhhhzj/mac-task-manager](https://github.com/Flashhhhhhzj/mac-task-manager/pull/9)
+- Oct 24 - [Flashhhhhhzj pushed mac-task-manager](https://github.com/Flashhhhhhzj/mac-task-manager/compare/7de11e0b91...08f0a039e6)
+- Oct 24 - [Flashhhhhhzj contributed to Flashhhhhhzj/mac-task-manager](https://github.com/Flashhhhhhzj/mac-task-manager/pull/9)
 <!-- feed end -->
