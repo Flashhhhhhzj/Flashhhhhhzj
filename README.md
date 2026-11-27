@@ -62,8 +62,5 @@
 
 <!-- feed start -->
 - Nov 20 - [Flashhhhhhzj starred boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
-- Oct 27 - [Flashhhhhhzj pushed mac-task-manager](https://github.com/Flashhhhhhzj/mac-task-manager/compare/33b72d0010...35f3664d7a)
-- Oct 27 - [Flashhhhhhzj contributed to Flashhhhhhzj/mac-task-manager](https://github.com/Flashhhhhhzj/mac-task-manager/pull/10)
-- Oct 27 - [Flashhhhhhzj contributed to Flashhhhhhzj/mac-task-manager](https://github.com/Flashhhhhhzj/mac-task-manager/pull/10)
 - Oct 27 - [Flashhhhhhzj created a branch](https://github.com/Flashhhhhhzj/mac-task-manager/compare/0000000000...8218c0dfa0)
 <!-- feed end -->
