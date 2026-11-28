@@ -62,5 +62,4 @@
 
 <!-- feed start -->
 - Nov 20 - [Flashhhhhhzj starred boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
-- Oct 27 - [Flashhhhhhzj created a branch](https://github.com/Flashhhhhhzj/mac-task-manager/compare/0000000000...8218c0dfa0)
 <!-- feed end -->
